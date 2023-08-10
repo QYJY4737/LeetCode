@@ -30,6 +30,7 @@ public class Test050 {
      * 说明
      * 2234为最长的非严格递增连续数字序列，所以长度为4
      */
+
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             String line = scanner.nextLine();
