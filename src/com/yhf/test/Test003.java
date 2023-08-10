@@ -6,12 +6,6 @@ public class Test003 {
 
     /**
      * 题目0003-TLV编码
-     * 页面内容
-     * 讨论
-     * 最后编辑
-     * Amos
-     * 02/08/2023
-     * TLV编码
      * 题目描述
      * TLV编码是按TagLengthValue格式进行编码的。
      * 一段码流中的信元用tag标识，tag在码流中唯一不重复，
