@@ -8,6 +8,7 @@ import java.util.Scanner;
  * @author qyjy4737
  */
 public class Test080 {
+
     /**
      * 题目0080-五键键盘
      * 题目描述
