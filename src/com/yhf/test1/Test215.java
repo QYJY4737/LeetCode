@@ -9,6 +9,7 @@ import java.util.Scanner;
  * @author qyjy4737
  */
 public class Test215 {
+
     /**
      * 题目0215-优雅数组
      * 题目描述
